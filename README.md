@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThoufeeqAhmed2004
-- 👀 I’m interested in Gaming and Coding
+- 👀 I’m interested in machine learning and web development
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - 📫 How to reach me Munnathoufi@gmail.com
 
